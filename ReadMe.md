@@ -1,10 +1,9 @@
 ## About: 
 
-The Midterm Folder contains three folders: 
+This Folder contains the following sections: 
 * Section_1_Abalone
 * Section_2_Astralia_Rain
-* Section_3_Boston 
-Each folder pertains to questions 1, 2, and 3 on the midterm specs. 
+* Section_3_Boston  
 
 **Section_1_Abalone contains:** 
 * **Abalone_pred_models.ipynb** - the jupyter notebook containing the code and thought process behind approaching this problem. 
